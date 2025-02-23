@@ -1,0 +1,8 @@
+{
+"data_path": "./mpst_dataset/mpst_full_data.csv",
+"nrows": 500,
+"processed_data_path": "./processed_data/processed_data.csv",
+"vectorizer_save_path": "./pickle_files",
+"n_features": 1200,
+"train": 1
+}
