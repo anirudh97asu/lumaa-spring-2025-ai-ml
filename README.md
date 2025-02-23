@@ -47,19 +47,24 @@ Execute the recommendation system using:
 
 ## Sample Results
 
-Example query: "I love thrilling action movies set in space, with a comedic twist."
+   #### Example query: "I love thrilling action movies set in space, with a comedic twist."
+   
+   ### Sample output:
+   
+   #### Title: The Last House on the Left, Score:0.25171650000812723
+   
+   #### Title: I tre volti della paura, Score:0.24998972827400734
+   
+   #### Title: Die Another Day, Score:0.22354837238939895
+   
+   #### Title: The Caller, Score:0.17241637227037848
+   
+   #### Title: Bedtime Stories, Score:0.170381686209587
 
-Sample output:
 
-Title: The Last House on the Left, Score:0.25171650000812723
-Title: I tre volti della paura, Score:0.24998972827400734
-Title: Die Another Day, Score:0.22354837238939895
-Title: The Caller, Score:0.17241637227037848
-Title: Bedtime Stories, Score:0.170381686209587
-
+## Video Demo:
 
 [![Movie Recommendation Demo](https://img.youtube.com/vi/T0tE6xVXd7g/0.jpg)](https://www.youtube.com/watch?v=T0tE6xVXd7g)
-
 
 
 # Salary Expectations: I'm seeking compensation aligned with the current market rate for this role and my level of experience
